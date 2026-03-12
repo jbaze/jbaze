@@ -2,7 +2,7 @@
 
 Full-stack developer from Veles, North Macedonia. 15+ years building web applications, mostly with .NET Core, Angular, and PostgreSQL.
 
-I run [TechUp Consulting](https://blagojche.dev) and work primarily through Upwork. 76 completed jobs, 100% Job Success, Top Rated Plus.
+I run [TechUp Consulting](https://blagojche.dev) and work primarily through Upwork. 80 completed jobs, 100% Job Success, Top Rated Plus.
 
 ## What I Build
 
