@@ -2,7 +2,7 @@
 
 Full-stack developer from Veles, North Macedonia. 15+ years building web applications, mostly with .NET Core, Angular, and PostgreSQL.
 
-I run [TechUp Consulting](https://blagojche.dev) and work primarily through Upwork — 76 completed jobs, 100% Job Success, Top Rated Plus.
+I run [TechUp Consulting](https://blagojche.dev) and work primarily through Upwork. 76 completed jobs, 100% Job Success, Top Rated Plus.
 
 ## What I Build
 
@@ -29,22 +29,26 @@ Testing:    xUnit, NUnit, Jest, Jasmine/Karma
 
 ## Selected Projects
 
-### Penny — AI Platform
+### Penny - AI Platform
 AI-powered revenue intelligence platform. Claude and OpenAI API integration with streaming responses, RAG-based document ingestion, knowledge base management, and structured report generation. Prompt caching for API cost optimization. Stripe subscription billing with plan-enforced usage limits.
 
 `.NET Core` `PostgreSQL` `Claude API` `OpenAI API` `Stripe` `AWS`
 
-### CoachUp — Multi-Tenant Education SaaS
+[Live](https://app.penny.techup.me)
+
+### CoachUp - Multi-Tenant Education SaaS
 My own SaaS platform for education organizations. Each institution gets isolated data on shared infrastructure. Scheduling, invoicing, Stripe payments, student management, and OCR-based payment reconciliation from bank statements.
 
 `.NET Core` `Angular` `PostgreSQL` `Stripe` `Docker`
 
-### Together Energy — CRM & Service Desk
+[Live](https://skillup-hq.vercel.app)
+
+### Together Energy - CRM & Service Desk
 CRM and service desk for a Scottish energy company. Ticketing with automated routing based on category and urgency. Three role-based dashboard levels. Financial reporting with audit logging. GDPR-compliant data handling.
 
 `.NET Core` `Angular` `PostgreSQL` `RabbitMQ` `Elasticsearch`
 
-### SportChrono — Sports Analytics Dashboard
+### SportChrono - Sports Analytics Dashboard
 Real-time sports analytics with live map visualization, interactive heatmaps, and data filtering.
 
 `Angular` `TypeScript` `Leaflet.js`
@@ -54,26 +58,33 @@ Buyers and sellers transacting through the platform. Stripe payments with vendor
 
 `.NET Core` `Angular` `PostgreSQL` `Stripe`
 
-### Hubrick — Loan Application Platform
+### Hubrick - Loan Application Platform
 Agents manage loan applicants through configurable kanban pipelines. DocuSign integration for automated document signing. Vendor matching with state-specific parameters.
 
 `Angular` `TypeScript` `.NET Core` `DocuSign API`
 
-### MoppHiring — Hiring Platform
+### RFQ - Request for Quote Platform
+Quote submission and vendor management system with clean architecture. JWT authentication, messaging between clients and vendors, real-time status updates.
+
+`.NET Core 8` `Angular` `PostgreSQL` `Docker`
+
+[Live](https://app.rfq.techup.me)
+
+### MoppHiring - Hiring Platform
 Dynamic wizard-based forms configurable at runtime. .NET microservices backend with API gateway, email service, and background workers. Applicant tracking with pipeline stages.
 
 `React` `Next.js` `.NET Core 8` `RabbitMQ` `Redis` `Elasticsearch`
 
-[Live →](https://www.mopphiring.com)
+[Live](https://www.mopphiring.com)
 
-### V.I.K.I. — Telegram Automation
+### V.I.K.I. - Telegram Automation
 Multi-account Telegram management with proxy support, scheduled actions, and rate limit handling.
 
 `.NET 6` `Angular` `MariaDB` `RabbitMQ` `Redis`
 
 ## Previous
 
-**T-Mobile Macedonia** (2009–2016) — 7 years building internal enterprise tools. RESTful APIs with C# and Oracle DB. GIS mapping application for the national land-line network using ArcGIS. In-house ticketing and error-tracking system.
+**T-Mobile Macedonia** (2009-2016). 7 years building internal enterprise tools. RESTful APIs with C# and Oracle DB. GIS mapping application for the national land-line network using ArcGIS. In-house ticketing and error-tracking system.
 
 ## Development Tools
 
