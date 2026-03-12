@@ -95,4 +95,4 @@ I use **Claude Code** as my primary development tool daily. Also use **Lovable.d
 - Portfolio: [blagojche.dev](https://blagojche.dev)
 - GitHub: [github.com/jbaze](https://github.com/jbaze)
 - Upwork: [Top Rated Plus, 100% JSS](https://www.upwork.com/freelancers/blagojcej)
-- Location: Veles, North Macedonia
+- Location: Veles, Macedonia
